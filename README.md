@@ -1,2 +1,2 @@
-# Datascience
-repository of data science
+# CoursDevops
+cours pratique de git
